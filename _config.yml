@@ -87,3 +87,5 @@ exclude:
   - package.json
   - spec
   - tmp
+
+root: /TestJek
