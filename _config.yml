@@ -88,4 +88,4 @@ exclude:
   - spec
   - tmp
 
-root: /TestJek
+baseurl: /TestJek
